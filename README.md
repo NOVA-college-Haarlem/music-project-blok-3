@@ -98,7 +98,7 @@ INSERT INTO albums (titel, artiest, genre, label, releasedate, aantal_nummers, s
 
 # Beoordelingscriteria
 
-Overzichtspagina
+## Overzichtspagina
 | Criterium                     | Onvoldoende                                 | Voldoende                                       | Goed                                                                      |
 | ----------------------------- | ------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------- |
 | Basisweergave van albums      | Albums worden niet of nauwelijks getoond    | Albums worden correct weergegeven               | Albums worden aantrekkelijk weergegeven met duidelijke visuele hiërarchie |
@@ -106,12 +106,14 @@ Overzichtspagina
 | Filter op artiest             | Filter werkt niet of met ernstige fouten    | Filter werkt, maar heeft kleine gebreken        | Filter werkt perfect en is gebruiksvriendelijk                            |
 | Sortering op releasedate      | Sortering werkt niet of met ernstige fouten | Sortering werkt, maar heeft kleine gebreken     | Sortering werkt perfect en is gebruiksvriendelijk                         |
 | Doorklikken naar detailpagina | Links werken niet of met ernstige fouten    | Links werken, maar zijn niet optimaal geplaatst | Links werken perfect en zijn intuïtief                                    |
-Detailpagina
+
+## Detailpagina
 | Criterium                       | Onvoldoende                               | Voldoende                          | Goed                                                   |
 | ------------------------------- | ----------------------------------------- | ---------------------------------- | ------------------------------------------------------ |
 | Weergave van album details      | Details worden niet of nauwelijks getoond | Details worden correct weergegeven | Details worden uitgebreid en aantrekkelijk weergegeven |
 | Teruglink naar overzichtspagina | Link werkt niet of is niet aanwezig       | Link is aanwezig en werkt          | Link is duidelijk zichtbaar en gebruiksvriendelijk     |
-Algemene aspecten
+
+## Algemene aspecten
 | Criterium          | Onvoldoende                                | Voldoende                                      | Goed                                           |
 | ------------------ | ------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
 | Database connectie | Query's werken niet of met ernstige fouten | Query's werken, maar zijn niet geoptimaliseerd | Query's werken goed en zijn geoptimaliseerd    |
